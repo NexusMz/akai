@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+Double+Pica&family=Kanit&display=swap');
+
+header{
+    border-radius: 15px;
+    display: flex;
+    margin-bottom: 20px;
+    background-color: #CCA43B;
+    width: 100%;
+}
+
+.logo{
+    padding-left: 20px;
+    width: 140px;
+}
+ul{
+    font-size: 30px;
+    display: flex;
+    list-style-type: none;
+    }
+    
+    li a.header{
+    margin-left: 100px;
+    text-decoration: none;
+    font-family: Kanit;
+    color: #380036;
+    }
+
+body{
+    background-color: #150811;
+}
+
+main{
+    padding: 20px;
+    border: 5px solid #380036;
+    border-radius: 15px;
+    display: flex;
+}
+
+.Akai img{
+    width: 500px;
+    margin-right: 10px;
+}
+
+.info{
+color: #E5E5E5;
+padding: 3em;
+font-family: Kanit;
+font-size: 23px;
+}
+h1,h2{
+    font-weight: 100;
+    font-size: 35px;
+    color: #E5E5E5;
+}
+p{
+    color: #E5E5E5;
+    font-family: Kanit;
+    font-size: 23px; 
+}
+
+a.info{
+    text-decoration: none;
+    font-size: 30px;
+    color: #380036;
+}
